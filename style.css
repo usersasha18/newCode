@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.custom {
+    width: 150px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.button-one {
+    background: rgb(119,112,238);
+    background: linear-gradient(90deg, rgba(119,112,238,1) 0%, rgba(92,194,157,1) 48%, rgba(0,212,255,1) 100%);
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px rgb(165, 165, 223);
+    cursor: pointer;
+    color: white;
+}
+
+.button-two {
+
+}
+
+.button-three {
+
+}
